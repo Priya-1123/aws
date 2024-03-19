@@ -1,13 +1,22 @@
 # aws
 
 Day 1: Introduction to AWS
+
 Day 2: IAM (Identity and Access Management)
+
 Day 3: EC2 Instances
+
 Day 4: AWS Networking (VPC)
+
 Day 5: AWS Security
+
 Day 6: AWS Route 53
+
+
 Day 7: Secure VPC Setup with EC2 Instances
+
 Day 8: AWS Interview Questions on EC2, IAM and VPC
+
 Day 9: Amazon S3
 Day 10: AWS CLI
 Day 11: AWS CloudFormation
